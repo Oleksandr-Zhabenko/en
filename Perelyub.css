@@ -1,1 +1,63 @@
-https://github.com/OleksandrZhabenko/sr/blob/master/Perelyub.css
+.main-container {
+	width: 100%;
+	display: flex;
+	direction: row;
+}
+
+.main-body {
+	width: 80%;
+    line-height: 161.8%;
+}
+
+.header-container {
+	width: 10%;
+	padding-left: 40px;
+	padding-right: 20px;
+}
+
+.paragraph {
+	width: 70%;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-weight: 400;
+	font-size: 16pt;
+	text-align: justify;
+        line-height: 161.8%;
+        font-family: Helvetica, sans-serif;
+}
+
+.two-svg {
+	display: flex;
+	direction: row;
+}
+
+.svg {
+	padding: 40px;
+	margin: 25px;
+}
+
+.svg3-5 {
+	padding: 40px;
+}
+
+.img {
+	width: 100px;
+	padding: 20px;
+
+}
+
+.header1 {
+	padding-left: 70px;
+}
+
+.author {
+	font-size: 18pt;
+	font-weight: 500;
+}
+
+.date {
+	text-align: left;
+
+}
+Footer
+
